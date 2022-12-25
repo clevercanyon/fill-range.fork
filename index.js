@@ -7,7 +7,6 @@
 
 'use strict';
 
-const util = require('util');
 const toRegexRange = require('to-regex-range');
 
 const isObject = val => val !== null && typeof val === 'object' && !Array.isArray(val);
@@ -112,7 +111,7 @@ const toRegex = (start, end, options) => {
 };
 
 const rangeError = (...args) => {
-  return new RangeError('Invalid range arguments: ' + util.inspect(...args));
+  return new RangeError('Invalid range arguments: ' + JSON.stringify(args, null, 4));
 };
 
 const invalidRange = (start, end, options) => {
