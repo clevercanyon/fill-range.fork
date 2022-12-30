@@ -28,8 +28,5 @@
   "dependencies": {
     "to-regex-range": "npm:@clevercanyon/to-regex-range.fork@^5.0.1"
   },
-  "devDependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "devDependencies": {}
 }
