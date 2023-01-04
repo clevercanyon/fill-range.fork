@@ -1,5 +1,8 @@
 {
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "version": "7.0.4",
   "name": "@clevercanyon/fill-range.fork",
