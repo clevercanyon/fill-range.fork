@@ -4,7 +4,7 @@
     "access": "public"
   },
   "license": "MIT",
-  "version": "7.0.5",
+  "version": "7.0.6",
   "name": "@clevercanyon/fill-range.fork",
   "description": "Fill in a range of numbers or letters.",
   "repository": "https://github.com/clevercanyon/fill-range.fork",
