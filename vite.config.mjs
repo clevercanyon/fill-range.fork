@@ -17,7 +17,7 @@ import baseConfig from './dev/.files/vite/config.mjs';
  * <custom:start> */
 
 export default async (vite) => {
-	return mc.merge({}, await baseConfig(vite), {});
+	return mc.merge( {}, await baseConfig(vite), {});
 };
 
 /* </custom:end> */
