@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "7.0.49",
+	"version": "7.0.50",
 	"license": "MIT",
 	"name": "@clevercanyon/fill-range.fork",
 	"description": "Fill in a range of numbers or letters.",
@@ -35,14 +35,14 @@
 	"types": "",
 	"typesVersions": {},
 	"dependencies": {
-		"to-regex-range": "npm:@clevercanyon/to-regex-range.fork@^5.0.49"
+		"to-regex-range": "npm:@clevercanyon/to-regex-range.fork@^5.0.50"
 	},
 	"peerDependencies": {},
 	"peerDependenciesMeta": {},
 	"optionalDependencies": {},
 	"bundleDependencies": [],
 	"devDependencies": {
-		"@clevercanyon/dev-deps": "^1.0.201"
+		"@clevercanyon/dev-deps": "^1.0.214"
 	},
 	"overrides": {},
 	"cpu": ["x64", "arm64"],
