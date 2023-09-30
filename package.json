@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "7.0.60",
+    "version": "7.0.61",
     "license": "MIT",
     "name": "@clevercanyon/fill-range.fork",
     "description": "Fill in a range of numbers or letters.",
