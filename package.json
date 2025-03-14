@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "7.0.144",
+    "version": "7.0.145",
     "license": "MIT",
     "name": "@clevercanyon/fill-range.fork",
     "description": "Fill in a range of numbers or letters.",
@@ -42,7 +42,7 @@
     "optionalDependencies": {},
     "bundleDependencies": [],
     "devDependencies": {
-        "@clevercanyon/dev-deps": "^1.0.384"
+        "@clevercanyon/dev-deps": "^1.0.410"
     },
     "overrides": {},
     "cpu": ["x64", "arm64"],
